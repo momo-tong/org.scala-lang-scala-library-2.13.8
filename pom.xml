@@ -42,3 +42,4 @@
         <info.apiURL>https://www.scala-lang.org/api/2.13.8/</info.apiURL>
     </properties>
 </project>
+<!-- Added to trigger github security checks -->
